@@ -1,0 +1,13 @@
+	=====================Factura===================
+Domicilio: 
+	Nombre: Lojana 
+	Ciudad: Loja 
+	Calle: AV.Pablo Placios 
+	Estado: ------ 
+	toString: ------ 
+LineItems: 
+	Cantidad: 3 
+Productos : 
+	Descripcion: PATATAS  Precio: 0.60
+	Descripcion: ARROZ  Precio: 0.80 
+Precio Total: 4.20 
